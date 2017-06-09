@@ -1,0 +1,27 @@
+c:\users\ahmet özkan\documents\visual studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\bin\Debug\Softwareverdiepingsles1.exe.config
+c:\users\ahmet özkan\documents\visual studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\bin\Debug\Softwareverdiepingsles1.exe
+c:\users\ahmet özkan\documents\visual studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\bin\Debug\Softwareverdiepingsles1.pdb
+c:\users\ahmet özkan\documents\visual studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.csprojResolveAssemblyReference.cache
+c:\users\ahmet özkan\documents\visual studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.Form1.resources
+c:\users\ahmet özkan\documents\visual studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.Properties.Resources.resources
+c:\users\ahmet özkan\documents\visual studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.csproj.GenerateResource.Cache
+c:\users\ahmet özkan\documents\visual studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.exe
+c:\users\ahmet özkan\documents\visual studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.pdb
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\bin\Debug\Softwareverdiepingsles1.exe.config
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.exe
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.pdb
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\bin\Debug\Softwareverdiepingsles1.exe
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\bin\Debug\Softwareverdiepingsles1.pdb
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.Form1.resources
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\Softwareverdiepingsles1\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.csproj.GenerateResource.Cache
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\RuimtefiguurBerekening\Softwareverdiepingsles1\bin\Debug\Softwareverdiepingsles1.exe.config
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\RuimtefiguurBerekening\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.exe
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\RuimtefiguurBerekening\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.pdb
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\RuimtefiguurBerekening\Softwareverdiepingsles1\bin\Debug\Softwareverdiepingsles1.exe
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\RuimtefiguurBerekening\Softwareverdiepingsles1\bin\Debug\Softwareverdiepingsles1.pdb
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\RuimtefiguurBerekening\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\RuimtefiguurBerekening\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.Form1.resources
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\RuimtefiguurBerekening\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Documenten\Visual Studio 2015\Projects\RuimtefiguurBerekening\Softwareverdiepingsles1\obj\Debug\Softwareverdiepingsles1.csproj.GenerateResource.Cache
